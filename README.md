@@ -3,7 +3,7 @@
 This project is a beginner's attempt to analyse and visualise training data, train a model and determine prediction accuracy. 
 The data set is of passengers from the Titanic. Source: [Kaggle](https://www.kaggle.com/competitions/titanic/data)
 
-A detailed description of the model can be found on my Hashnode. 
+A detailed description of the model can be found on my [Hashnode](https://jainayushee.hashnode.dev/my-first-machine-learning-model). 
 
 ### Data visuals
 
